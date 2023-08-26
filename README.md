@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sparsh+Mundai!;" />
 </h1>
 
 <h2 align="center">A Passionate Computer Science Engineering Student from India</h2>
@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Cloud Computing & Devops**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sparshmundai?tab=repositories](https://github.com/sparshmundai?tab=repositories)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/sparshmundai?tab=repositories)
 
 - 📫 How to reach me **sparshmundhai03@gmail.com**
 
-- 📄 Know about my experiences [https://sparshmundai.github.io/My_Web_Resume/](https://sparshmundai.github.io/My_Web_Resume/)
+- 📄 Know about my experiences [Digital_Resume](https://sparshmundai.github.io/My_Web_Resume/)
 
 - ⚡ Fun fact **No number before 1,000 contains the letter A**
 
