@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=40&duration=5000&lines=Hi+There!+👋;+I'm+Sparsh+Mundai+!;" />
 </h1>
 
-<h2 align="center">A Passionate Computer Science Engineering Student from India</h2>
+<h2 align="center">A Passionate Computer Science Engineering Student</h2>
 
 <img align="right" alt="coding_gif" width="400" src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif">
 
