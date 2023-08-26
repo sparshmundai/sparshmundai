@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mundai_sparsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mundai_sparsh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sparsh-mundai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sparsh-mundai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sparsh-mundai-583b83211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sparsh-mundai" height="30" width="40" /></a>
 <a href="https://fb.com/sparshmundai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sparshmundai" height="30" width="40" /></a>
 <a href="https://instagram.com/sparshmundai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sparshmundai" height="30" width="40" /></a>
 </p>
