@@ -1,6 +1,6 @@
 ![banner](https://github.com/sparshmundai/sparshmundai/blob/main/banner.jpeg)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=80&duration=5000&lines=Hi+There!+👋;+I'm+Sparsh+Mundai+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=40&duration=5000&lines=Hi+There!+👋;+I'm+Sparsh+Mundai+!;" />
 </h1>
 
 <h2 align="center">A Passionate Computer Science Engineering Student from India</h2>
