@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sparshmundhai03@gmail.com**
 
-- 📄 Know about me [Digital_Resume](https://sparshmundai.github.io/My_Web_Resume/)
+- 📄 Know about me [Portfolio](https://sparshmundai.github.io/My_Web_Resume/)
 
 - ⚡ Fun fact **No number before 1,000 contains the letter A**
 
