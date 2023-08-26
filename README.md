@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sparsh Mundai</h1>
 <h3 align="center">A Passionate Computer Science Engineering Student from India</h3>
 
-<iframe src="https://giphy.com/embed/YbXLZ6dymH758xSEbM" align="right" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-computer-chatgpt-chat-gpt-YbXLZ6dymH758xSEbM">via GIPHY</a></p>
-
+<img align="right" alt="coding_gif" width="400" src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif">
 
 - 🌱 I’m currently learning **Cloud Computing & Devops**
 
