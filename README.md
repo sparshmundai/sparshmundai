@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sparsh Mundai</h1>
 <h3 align="center">A Passionate Computer Science Engineering Student from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparshmundai" alt="sparshmundai" /></a> </p>
 
 - 🌱 I’m currently learning **Cloud Computing & Devops**
 
